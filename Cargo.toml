@@ -1,0 +1,8 @@
+[package]
+name = "fft"
+version = "0.1.0"
+authors = ["gganley <gganley@student.bridgew.edu>"]
+
+[dependencies]
+num = "0.2"
+num-traits = "0.2"
